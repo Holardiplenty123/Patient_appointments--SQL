@@ -21,10 +21,35 @@ The table was successful created to load the dataset into the table
 
 ![](Table.JPG)
 
+
 - Patients that have appointments today
 
 In the query result it shows that only 2 people have appointment see from the query image attached
 
+![](Query_JPG.JPG)
+
+
+- Patients who check in the last 30 minutes
+
+In the query result image attached we can confirm the patients that check in the last 30 minutes
+
+![]()
+
+
+- In the query I extract only the appointment time
+
+In the query image attached we can detemine the number of people that have appointments
+
+![]()
+
+
+- Finding the appointments that happens before 12 noon
+  
+In the query image attached we can detemine the number of people that have appointments before 12 noon
+
+
+- I combine current time stamp with Calculation
+![]()
 
 
 
