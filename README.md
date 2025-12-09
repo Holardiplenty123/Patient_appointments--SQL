@@ -46,6 +46,7 @@ In the query image attached we can detemine the number of people that have appoi
 - Finding the appointments that happens before 12 noon
   
 In the query image attached we can detemine the number of people that have appointments before 12 noon
+![]()
 
 
 - I combine current time stamp with Calculation
