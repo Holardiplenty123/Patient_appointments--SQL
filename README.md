@@ -33,24 +33,25 @@ In the query result it shows that only 2 people have appointment see from the qu
 
 In the query result image attached we can confirm the patients that check in the last 30 minutes
 
-![]()
+![](Query(2)_JPG.JPG)
 
 
 - In the query I extract only the appointment time
 
-In the query image attached we can detemine the number of people that have appointments
+In the query image attached we can detemine the number of people that have appointments and the time of the appointment
 
-![]()
+![](Query(3)_JPG.JPG)
 
 
 - Finding the appointments that happens before 12 noon
   
 In the query image attached we can detemine the number of people that have appointments before 12 noon
-![]()
+![](Query(4)_JPG.JPG)
 
 
 - I combine current time stamp with Calculation
-![]()
+![](Query(6)_JPG.JPG)
+
 
 
 
